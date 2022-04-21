@@ -1,0 +1,146 @@
+[
+    {        
+        "id": "101",
+        "name": "No Country for Old Men",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/8/8b/No_Country_for_Old_Men_poster.jpg",
+        "rating": 8.1,
+        "summary": "A hunter's life takes a drastic turn when he discovers two million dollars while strolling through the aftermath of a drug deal. He is then pursued by a psychopathic killer who wants the money.",
+        "trailer": "https://www.youtube.com/embed/38A__WT3-o0",
+        "language": "english"
+    },
+    {      
+        "id": "102",
+        "name": "Jai Bhim",
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2Y5ZWMwZDgtZDQxYy00Mjk0LThhY2YtMmU1MTRmMjVhMjRiXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg",
+        "summary": "A tribal woman and a righteous lawyer battle in court to unravel the mystery around the disappearance of her husband, who was picked up the police on a false case",
+        "rating": 9.6,
+        "trailer": "https://www.youtube.com/embed/nnXpbTFrqXA",
+        "language": "tamil"
+    },
+    {        
+        "id": "103",
+        "name": "The Avengers",
+        "rating": 8,
+        "summary": "Marvel's The Avengers (classified under the name Marvel Avengers\n Assemble in the United Kingdom and Ireland), or simply The Avengers, is\n a 2012 American superhero film based on the Marvel Comics superhero team\n of the same name.",
+        "poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/avengersendgame_lob_crd_05.jpg",
+        "trailer": "https://www.youtube.com/embed/eOrNdBpGMv8",
+        "language": "english"
+    },
+    {        
+        "id": "104",
+        "name": "Interstellar",
+        "poster": "https://m.media-amazon.com/images/I/A1JVqNMI7UL._SL1500_.jpg",
+        "rating": 8.8,
+        "summary": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA\n pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team\n of researchers, to find a new planet for humans.",
+        "trailer": "https://www.youtube.com/embed/zSWdZVtXT7E",
+        "language": "english"
+    },
+    {        
+        "id": "105",
+        "name": "Baahubali",
+        "poster": "https://flxt.tmsimg.com/assets/p11546593_p_v10_af.jpg",
+        "rating": 8.8,
+        "summary": "In the kingdom of Mahishmati, Shivudu falls in love with a young warrior woman. While trying to woo her, he learns about the conflict-ridden past of his family and his true legacy.",
+        "trailer": "https://www.youtube.com/embed/sOEg_YZQsTI",
+        "language": "telugu"
+    },
+    {        
+        "id": "106",
+        "name": "Ratatouille",
+        "poster": "https://resizing.flixster.com/gL_JpWcD7sNHNYSwI1ff069Yyug=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzc4ZmJhZjZiLTEzNWMtNDIwOC1hYzU1LTgwZjE3ZjQzNTdiNy5qcGc=",
+        "rating": 8,
+        "summary": "Remy, a rat, aspires to become a renowned French chef. However, he fails to realise that people despise rodents and will never enjoy a meal cooked by him.",
+        "trailer": "https://www.youtube.com/embed/NgsQ8mVkN8w",
+        "language": "english"
+    },
+    {        
+        "name": "Avatar",
+        "id": "107",
+        "poster": "https://miro.medium.com/max/453/1*zWGSyuGKWgKYu-ZAf5bxiA.jpeg",
+        "rating": 7.8,
+        "summary": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+        "trailer": "https://www.youtube.com/embed/5PSNL1qE6VY",
+        "language": "english"
+    },
+    {        
+        "name": "Avengers: Endgame",
+        "id": "108",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
+        "rating": 8.4,
+        "summary": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+        "trailer": "https://www.youtube.com/embed/TcMBFSGVi1c",
+        "language": "english"
+    },
+    {       
+        "name": "Titanic ",
+        "id": "109",
+        "poster": "https://m.media-amazon.com/images/I/81nGkful2jL._AC_SY679_.jpg",
+        "rating": 7.8,
+        "summary": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic",
+        "trailer": "https://www.youtube.com/embed/CHekzSiZjrY",
+        "language": "english"
+    },
+    {        
+        "name": "Star Wars: The Force Awakens",
+        "id": "110",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_.jpg",
+        "rating": 7.8,
+        "summary": "As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace.",
+        "trailer": "https://www.youtube.com/embed/sGbxmsDFVnE",
+        "language": "english"
+    },
+    {        
+        "name": "Avengers: Infinity War",
+        "id": "111",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+        "rating": 8.4,
+        "summary": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+        "trailer": "https://www.youtube.com/embed/6ZfuNTqbHE8",
+        "language": "tamil"
+    },
+    {        
+        "name": "Jurassic World",
+        "id": "112",
+        "poster": "https://m.media-amazon.com/images/I/81BcmbLuzcL._SL1500_.jpg",
+        "rating": 7,
+        "summary": "A new theme park, built on the original site of Jurassic Park, creates a genetically modified hybrid dinosaur, the Indominus Rex, which escapes containment and goes on a killing spree.",
+        "trailer": "https://www.youtube.com/embed/RFinNxS5KN4",
+        "language": "telugu"
+    },
+    {        
+        "name": " The Lion King",
+        "id": "113",
+        "poster": "https://images.moviesanywhere.com/c07276e9473360730fdbc94baebc4236/4692c964-61ba-486d-9c77-939dbfba2f07.jpg",
+        "rating": 6.8,
+        "summary": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
+        "trailer": "https://www.youtube.com/embed/7TavVZMewpY",
+        "language": "english"
+    },
+    {        
+        "name": "Thor Ragnarok",
+        "id": "114",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_.jpg",
+        "rating": 7.9,
+        "summary": "Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
+        "trailer": "https://www.youtube.com/embed/ue80QwXMRHg",
+        "language": "telugu"
+    },
+    {       
+        "trailer": "https://www.youtube.com/embed/4a1OhIEN1ik",
+        "name": "MEGAM",
+        "summary": "Unluckiest person ever and most depressed person",
+        "rating": "10",
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw3ZMmE6xBGYoKJqsQTEbATShNqGeGHOZvhA&usqp=CAU",
+        "id": "115",
+        "language": "tamil"
+    },
+    {
+        "trailer": "https://www.youtube.com/embed/Gc6dEDnL8JA",
+        "name": "Jai Bhim",
+        "summary": "When a tribal man is arrested for a case of alleged theft, his wife turns to a human-rights lawyer to help bring justice.",
+        "rating": "9.6",
+        "poster": "https://c5.cema4.onl/shahed4u/wp-content/uploads/2021/11/1635861751_Jai-Bhim-2021-Hindi-ORG-Dual-Audio-1080p-UNCUT-HDRip-ESub-2.4GB-Download40e0f5a061bd53a6.jpg",
+        "id": "116",
+        "language": "tamil"
+    }
+]
